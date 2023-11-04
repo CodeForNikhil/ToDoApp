@@ -16,7 +16,7 @@ This is a feature-rich ToDo List web application built with Spring Boot, Spring 
 
 ## Technologies Used
 
-- [Spring Boot 2.7.17]([https://spring.io/projects/spring-boot](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes)): Simplify building production-ready applications.
+- [Spring Boot 2.7.17](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes): Simplify building production-ready applications.
 - [Spring Security](https://spring.io/projects/spring-security): Secure your application with robust authentication and authorization.
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa): Provides easy data access and manipulation with JPA.
 - [H2 Database](https://www.h2database.com/): A fast in-memory database for storing task data.
