@@ -1,5 +1,5 @@
 # ToDoApp
-This is entirely based on SpringBoot 3, SpringBoot Security, JSP, H2 database, Java 8.
+This is entirely based on SpringBoot 2.7.17, SpringBoot Security, JSP, H2 database, Java 8.
 
 # ToDo List Web Application
 
