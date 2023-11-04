@@ -37,4 +37,5 @@ This is a feature-rich ToDo List web application built with Spring Boot, Spring 
 3. **Access the Application**
 
 - Open a web browser and go to http://localhost:8080 to access the ToDo List application.
+- Id: Nikhil/NikhilN pass: Dummy.
 - Open a web browser and go to http://localhost:8080/h2-console to access the H2 database.
